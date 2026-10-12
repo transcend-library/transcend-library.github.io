@@ -42,7 +42,7 @@ we link to other websites for convenience. we don't control them and aren't resp
 
 each guide carries a note about who it's meant for. please respect it, and do not circulate the guides publicly.
 
-## tf you need help now
+## if you need help now
 
 if you're in crisis or thinking about suicide or self-harm, please reach out to one of the [helplines on our friends page]({{ '/friends/' | relative_url }}#helplines-title).
 

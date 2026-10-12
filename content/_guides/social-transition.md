@@ -137,7 +137,7 @@ It takes about 1-2 weeks for ICA to approve your application; officially they sa
 
 After your application is complete, it’ll take another week to collect your IC. ICA only begins to properly update your information once you have collected your IC - this process can take hours or up to a day; updates on Singpass and Singpass-dependent databases can take up to 3-5 days after.
 
-You can apply for a new passport and IC at the same time via the ICA portal.
+You can apply for a new passport and IC at the same time via the ICA portal. This will cost $70 and $60 dollars respectively.
 
 If you want to update your driver’s licence, however, you’ll have to go direct to the Traffic Police Headquarters to replace your licence. Bring a physical copy of your passport-sized photo to do so; this will cost \$25.
 
@@ -279,6 +279,8 @@ Some junior colleges may be more welcoming than others, with some accepting your
 
 Universities and polytechnics are generally more accepting spaces, with the Inter-University LGBT Network a good space to start out if you need school-specific information about socially transitioning.
 
+At ITE colleges, in order to sport long hair (or deviate from the official school hair policies), you are required to submit an official request with medical proof that you are seeing a public or private doctor for gender dysphoria, like a memo from CGC (Child Guidance Clinic). This does not require an official diagnosis. The same can be done for the mandatory public swimming in your Sports and Wellness modules.
+
 #### Changing your name on your polytechnic, university degree and university correspondence
 {: #h-8cb737b1-007a-4449-ba3b-b30f2ae55a95}
 
@@ -338,9 +340,9 @@ A basic rule of thumb is to <u>block anyone you do not want to come out to</u>. 
 
 On Facebook, [blocking someone](https://www.facebook.com/help/1000976436606344) means that they will not have access to your profile at all. They will not be able to message you, nor see your profile on Messenger.
 
-On Instagram, [blocking someone](https://help.instagram.com/426700567389543) (and the profiles they create) means that they will not be able to access your posts, but may see your bio. They will not be able to message you.
+On Instagram, [blocking someone](https://help.instagram.com/426700567389543) (and the profiles they create) means that they will not be able to see your profile, bio, posts, and stories while they are logged into their account. 
 
-On Twitter, [blocking someone](https://help.twitter.com/en/using-twitter/blocking-and-unblocking-accounts) means that they will not be able to access your posts but may see your bio and that they blocked you. They will not be able to message you.
+On Twitter, [blocking someone](https://help.twitter.com/en/using-twitter/blocking-and-unblocking-accounts) means they will still be able to see your posts, but will not be able to interact. Although blocking someone will stop you from being recommended to them, if a third party whom they do follow replies, retweets or quotes you, they might chance into seeing your profile.
 
 On TikTok, [blocking someone](https://support.tiktok.com/en/using-tiktok/followers-and-following/blocking-the-users) will mean that you are no longer visible to that person and that they will not be able to message you.
 
